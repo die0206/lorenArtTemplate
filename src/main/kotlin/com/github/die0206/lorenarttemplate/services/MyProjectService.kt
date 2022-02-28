@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.die0206.lorenarttemplate.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.die0206.lorenarttemplate.MyBundle
 
 class MyProjectService(project: Project) {
 
